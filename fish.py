@@ -48,7 +48,4 @@ class Kong(Fish):
         self.weight += 2
 
 
-a = Tang("Annácska", 3, "blue", True)
-a.status()
-a.feed()
-a.status()
+
