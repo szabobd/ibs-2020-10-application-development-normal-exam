@@ -20,3 +20,4 @@ class Aquarium:
                 self.fish_list.remove(fish)
             else:
                 pass
+
